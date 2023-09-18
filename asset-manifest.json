@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://churchlide.github.io/static/css/main.5dab157e.css",
-    "main.js": "https://churchlide.github.io/static/js/main.fe6030ba.js",
+    "main.js": "https://churchlide.github.io/static/js/main.c7adda9a.js",
     "static/js/787.99ea3427.chunk.js": "https://churchlide.github.io/static/js/787.99ea3427.chunk.js",
     "static/media/remixicon.svg?t=1590207869815": "https://churchlide.github.io/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/remixicon.eot?t=1590207869815": "https://churchlide.github.io/static/media/remixicon.5cb99e6cba5a4619063f.eot",
@@ -11,11 +11,11 @@
     "service-worker.js": "https://churchlide.github.io/service-worker.js",
     "index.html": "https://churchlide.github.io/index.html",
     "main.5dab157e.css.map": "https://churchlide.github.io/static/css/main.5dab157e.css.map",
-    "main.fe6030ba.js.map": "https://churchlide.github.io/static/js/main.fe6030ba.js.map",
+    "main.c7adda9a.js.map": "https://churchlide.github.io/static/js/main.c7adda9a.js.map",
     "787.99ea3427.chunk.js.map": "https://churchlide.github.io/static/js/787.99ea3427.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5dab157e.css",
-    "static/js/main.fe6030ba.js"
+    "static/js/main.c7adda9a.js"
   ]
 }
